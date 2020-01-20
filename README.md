@@ -1,5 +1,5 @@
 <h4> Simple Exploration Notebook</h4>
-# Mercedes-Greener-manufacturing
+<h2>Mercedes-Greener-manufacturing</h2>
 Reduce the time that a mercedes car takes on test bench.
 
 <b>Problem:</b>
